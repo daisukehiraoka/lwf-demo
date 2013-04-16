@@ -12,7 +12,6 @@ public class LWFSampleObject : LWFObject {
 
 		Load(path:path, texturePrefix:dir, camera:camera);
 
-		camera.rect = new Rect(0, 0, 1, 1);
 		int height = (int)camera.orthographicSize * 2;
 		FitForHeight(height);
 
