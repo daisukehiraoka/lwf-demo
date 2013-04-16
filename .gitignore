@@ -1,6 +1,8 @@
 .DS_Store
 unity/basic/Library
 unity/basic/Temp
+unity/basic2/Library
+unity/basic2/Temp
 *.csproj
 *.pidb
 *.sln
